@@ -116,9 +116,6 @@ Price<br>
 2.Pandas<br>
 
 3.NumPy<br>
-
 4.Matplotlib<br>
-
 5.Seaborn<br>
-
-6. Google Colab<br>
+6. Google Colab
