@@ -111,10 +111,8 @@ Price<br>
 
 # 🛠️ Tech Stack<br>
 
-1.Python 🐍<br>
-
+1.Python<br>
 2.Pandas<br>
-
 3.NumPy<br>
 4.Matplotlib<br>
 5.Seaborn<br>
